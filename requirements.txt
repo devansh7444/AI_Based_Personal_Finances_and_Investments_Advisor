@@ -1,0 +1,9 @@
+pandas
+yfinance
+numpy
+flask
+streamlit
+scikit-learn
+python-dotenv
+langchain-community
+huggingface_hub
